@@ -30,7 +30,7 @@ import java.util.Date
 object ProcessWifiData {
   def main(args: Array[String]) {
 
-    //获取参数值
+    //获取参数值qqq
     var cmd: CommandLine = null
     val options: Options = new Options()
     
